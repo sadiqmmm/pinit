@@ -43,3 +43,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'puma', '~> 2.10.1'
