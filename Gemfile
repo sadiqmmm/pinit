@@ -13,6 +13,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'puma', '~> 2.10.1'
+gem 'puma', '~> 2.10.2'
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'autoprefixer-rails'
